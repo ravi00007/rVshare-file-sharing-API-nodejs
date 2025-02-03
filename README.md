@@ -20,7 +20,7 @@ Nodemailer (Optional): A powerful library for sending emails directly from your 
 Installation:
 
 1 Clone the Repository:
-git clone https://github.com/your-username/file-sharing-api.git
+git clone [https://github.com/your-username/file-sharing-api.git](https://github.com/ravi00007/rVshare-file-sharing-API-nodejs.git)
 
 2 Install Dependencies:
 cd file-sharing-api
